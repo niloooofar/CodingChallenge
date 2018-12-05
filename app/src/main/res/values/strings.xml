@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CirtualCodingChallenge</string>
+    <string name="search">Search</string>
+    <string name="transition_photo">transition_photo</string>
+</resources>
